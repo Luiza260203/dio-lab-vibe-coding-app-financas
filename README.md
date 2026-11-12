@@ -419,11 +419,12 @@ Gerar:
 
 Toda a comunicação deve utilizar linguagem simples, educativa e em português do Brasil.
 ````
-Interações com o App Base44
+Interações com o Lovable
 
 > Crie um App de Finanças Pessoais com base no seguinte PRD (Product Requirements Document): {PRD}
+> Link do site: https://papo-que-guarda-grana.lovable.app
 
-<img width="1867" height="957" alt="image" src="https://github.com/user-attachments/assets/48241192-bf73-41e8-8187-3d46a3c4d874" />
+<img width="1903" height="958" alt="image" src="https://github.com/user-attachments/assets/72b58845-0fa6-44a9-a79e-632054ef3cac" />
 
   
 # Agente Financeiro IA
@@ -647,10 +648,10 @@ MVP funcional desenvolvido com foco em:
 **reflexão sobre o processo**:
 
 ## O que funcionou bem?  
-O refinamento do PRD previamente feito no Copilot ajudou muito, pois os créditos do Base44 acabaram em 1 alteração. 
+O refinamento do PRD previamente feito no Copilot ajudou muito, pois os créditos do Lovable acabaram em 1 tentativa. 
 
 ## O que não funcionou como o esperado?
-Esperava poder finalizar a primeira versão do app no Lovable, mas os créditos acabaram antes mesmo de finalizar o primeiro protótipo. Tentei então criar no Base44. Neste, esperava poder interagir mais vezes gratuitamente com o Base44, não foi possível fazer alterações posteriores no protótipo, mas a primeira versão do app já contava com funcionalidades desejadas, como criar metas a partir do próprio chat, interface de gráficos, relatórios, etc.
+Esperava poder finalizar a primeira versão do app no Lovable, mas os créditos acabaram antes mesmo de finalizar o primeiro protótipo. Finalizei o primeiro protótipo no dia seguinte. A primeira versão do app já contava com funcionalidades desejadas, como criar metas a partir do próprio chat, interface de gráficos, relatórios, etc.
 
 ## O que aprendeu sobre conversar com IAs?
 Aprendi que é basicamente igual a conversar com uma pessoa confiável e muito inteligente, quanto mais detalhes e clareza você dá, melhor é a interação e os resultados gerados.
