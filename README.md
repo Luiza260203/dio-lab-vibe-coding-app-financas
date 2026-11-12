@@ -1,4 +1,4 @@
-# 💸 App de Controle Finnceiro
+# 💸 App de Controle Financeiro
 
 PRD refinado no Copilot
 
